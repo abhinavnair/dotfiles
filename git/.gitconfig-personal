@@ -1,0 +1,8 @@
+[user]
+	name = Abhinav Nair
+	email = 11939846+abhinavnair@users.noreply.github.com
+	signingkey = <REPLACE_ME>
+[core]
+	excludesfile = ~/.gitignore
+[commit]
+	gpgsign = true
