@@ -6,3 +6,5 @@
 	excludesfile = ~/.gitignore
 [commit]
 	gpgsign = true
+[push]
+	autoSetupRemote = true

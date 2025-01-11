@@ -3,6 +3,6 @@
 	email = <REPLACE_ME>
 	signingkey = <REPLACE_ME>
 [core]
-	excludesfile = ~/.gitignore
+	excludesfile = ~/global-gitignore
 [commit]
 	gpgsign = true

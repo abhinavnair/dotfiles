@@ -1,15 +1,5 @@
-# Personal
-[includeIf "gitdir:~/workspace/go/src/github.com/"]
-	path = ~/.gitconfig-personal
 [includeIf "gitdir:~/workspace/personal/"]
 	path = ~/.gitconfig-personal
 
-# SPD
-[includeIf "gitdir:~/workspace/go/src/<REPLACE_ME>/"]
-  path = ~/.gitconfig-spd
 [includeIf "gitdir:~/workspace/sp-digital/"]
   path = ~/.gitconfig-spd
-
-# Others
-[includeIf "gitdir:~/workspace/others/"]
-  path = ~/.gitconfig-personal

@@ -1,13 +1,12 @@
 # dotfiles
 
-### Shell
-`zsh`
+## Steps
 
-### Package Manager
-- MacOS: [Homebrew](https://brew.sh/)
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+brew install git
+mkdir ~/workspace ~/workspace/personal
+git clone https://github.com/abhinavnair/dotfiles ~/workspace/personal/dotfiles
 
-### Terminal
-- MacOS: [iTerm2](https://iterm2.com/)
-
-### Fonts
-- [Jetbrains Mono](https://www.jetbrains.com/lp/mono/)
+~/workspace/personal/dotfiles/setup.sh
+```
