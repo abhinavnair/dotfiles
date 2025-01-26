@@ -11,7 +11,7 @@ iterm2
 elastic/tap/kibana-full
 mongodb-compass
 microsoft-azure-storage-explorer
-pika
+raycast
 redis-insight
 slack
 visual-studio-code
