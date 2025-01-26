@@ -16,5 +16,5 @@ alias gofmt='~/workspace/go/bin/gofumpt -w'
 alias tfmt='terraform fmt -write -recursive'
 
 # Colima
-alias colimastartmax='colima start --cpu 2 --memory 8 --vm-type vz --mount-type virtiofs'
-alias colimastartlow='colima start --cpu 4 --memory 16 --vm-type vz --mount-type virtiofs'
+alias colimastartlow='colima start --cpu 2 --memory 8 --vm-type vz --mount-type virtiofs'
+alias colimastartmax='colima start --cpu 4 --memory 16 --vm-type vz --mount-type virtiofs'
