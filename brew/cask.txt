@@ -4,6 +4,7 @@ chatgpt
 drawio
 font-jetbrains-mono
 font-monaspace
+figma
 gpg-suite
 iina
 insomnia
@@ -11,6 +12,7 @@ iterm2
 elastic/tap/kibana-full
 mongodb-compass
 microsoft-azure-storage-explorer
+notion
 raycast
 redis-insight
 slack
