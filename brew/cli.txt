@@ -9,6 +9,7 @@ docker-compose
 gh
 git
 go
+go-task
 golangci-lint
 graphviz
 hashicorp/tap/boundary
@@ -35,6 +36,7 @@ rustup-init
 skaffold
 terraform
 tilt
+tree
 tmux
 vim
 watch
